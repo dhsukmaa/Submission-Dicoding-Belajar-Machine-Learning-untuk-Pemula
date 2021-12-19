@@ -9,4 +9,6 @@ I took a 'machine learning class for beginners' because I got a scholarship from
 6.	Use google colaboratory to work on the program
 7.	Accuracy of the model is at least 85%.
 8.	Can predict images uploaded to Colaboratory
+
+
 use the rock paper scissors dataset to work on the program.
